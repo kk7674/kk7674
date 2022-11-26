@@ -21,8 +21,8 @@ Contact
 kkw7674@naver.com
 
 Blog
-
-main: https://taewogi.tistory.com/
+  
+main: https://taewogi.tistory.com/  
 sub: https://blog.naver.com/kshop1386
 
 - 🔭 I’m currently working on ...
