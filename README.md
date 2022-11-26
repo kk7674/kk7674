@@ -34,3 +34,4 @@ Here are some ideas to get you started:
 #### 백준 티어
   
 - [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkw7674)](https://solved.ac/kkw7674/)
+- ![mazandi profile](http://mazandi.herokuapp.com/api?handle={kkw7674}&theme=warm)
