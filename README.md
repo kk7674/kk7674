@@ -16,16 +16,21 @@ Here are some ideas to get you started:
 -->
 
 
-Contact
+#### Contact
 
 - kkw7674@naver.com
+- 
 
-Blog
+#### Blog
   
 - main: https://taewogi.tistory.com/  
   
 - sub: https://blog.naver.com/kshop1386
 
-Practice
+#### Practice
 
 - Node.js, python algorithm
+  
+#### 백준 티어
+  
+- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkw7674)](https://solved.ac/kkw7674/)
