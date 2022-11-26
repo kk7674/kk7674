@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -18,6 +18,13 @@ Here are some ideas to get you started:
 
 Contact
 
+kkw7674@naver.com
+
 Blog
 
-https://taewogi.tistory.com/
+main: https://taewogi.tistory.com/
+sub: https://blog.naver.com/kshop1386
+
+- 🔭 I’m currently working on ...
+
+- Node.js, python algorithm
