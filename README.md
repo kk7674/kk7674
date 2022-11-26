@@ -26,6 +26,6 @@ main: https://taewogi.tistory.com/
   
 sub: https://blog.naver.com/kshop1386
 
-- 🔭 I’m currently working on ...
+Practice
 
 - Node.js, python algorithm
