@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 #### Contact
 
 - kkw7674@naver.com
-- 
 
 #### Blog
   
