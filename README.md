@@ -1,4 +1,4 @@
-### Taeuk Github😊
+### TaeUk Github😊
 
 <!--
 **kk7674/kk7674** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
