@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   
 - sub: https://blog.naver.com/kshop1386
 
-#### Practice
+#### Practice ~ing
 
 - Node.js, python algorithm
   
