@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 #### Practice ~ing
 
-- Node.js, python algorithm
+- Node.js, python algorithm, 
   
 #### 백준 티어
   
